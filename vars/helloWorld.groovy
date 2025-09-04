@@ -1,3 +1,3 @@
-def call(){
-  return "HelloWorld:::"
+def call(name){
+  return "HelloWorld:::" + $name
 }
