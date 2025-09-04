@@ -1,3 +1,3 @@
 def call(name){
-  return "HelloWorld:::" + $name
+  return "HelloWorld:::" + name
 }
