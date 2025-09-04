@@ -1,5 +1,3 @@
 def call(){
-  node{
-    echo "Hello World"
-  }
+  return "HelloWorld:::"
 }
